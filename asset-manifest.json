@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EmployeeTask/static/css/main.f4ab41bb.css",
+    "main.js": "/EmployeeTask/static/js/main.de8a3e38.js",
+    "static/js/453.e52305e5.chunk.js": "/EmployeeTask/static/js/453.e52305e5.chunk.js",
+    "index.html": "/EmployeeTask/index.html",
+    "main.f4ab41bb.css.map": "/EmployeeTask/static/css/main.f4ab41bb.css.map",
+    "main.de8a3e38.js.map": "/EmployeeTask/static/js/main.de8a3e38.js.map",
+    "453.e52305e5.chunk.js.map": "/EmployeeTask/static/js/453.e52305e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4ab41bb.css",
+    "static/js/main.de8a3e38.js"
+  ]
+}
